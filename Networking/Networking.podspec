@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '15.0'
 
   s.source_files = 'Networking/Module/**/*.{swift}'
-  s.resources = 'Networking/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}'
+  #s.resources = 'Networking/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}'
   
   # s.resource_bundles = {
   #   'Networking' => ['Networking/Assets/*.png']
