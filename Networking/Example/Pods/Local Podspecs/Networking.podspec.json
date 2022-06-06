@@ -1,0 +1,23 @@
+{
+  "name": "Networking",
+  "version": "0.1.0",
+  "summary": "A short description of Networking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Siphokazi Fikeni/Networking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Siphokazi Fikeni": "siphokazi.fikeni@standardbank.co.za"
+  },
+  "source": {
+    "git": "https://github.com/Siphokazi Fikeni/Networking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "15.0"
+  },
+  "source_files": "Networking/Module/**/*.{swift}",
+  "resources": "Networking/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}"
+}
